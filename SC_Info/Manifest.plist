@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SinfPaths</key>
+	<array>
+		<string>SC_Info/Leap.sinf</string>
+	</array>
+	<key>SinfReplicationPaths</key>
+	<array>
+		<string>Frameworks/KFEpubKit.framework/SC_Info/KFEpubKit.sinf</string>
+		<string>Frameworks/KissXML.framework/SC_Info/KissXML.sinf</string>
+		<string>Frameworks/MTBBarcodeScanner.framework/SC_Info/MTBBarcodeScanner.sinf</string>
+		<string>Frameworks/Masonry.framework/SC_Info/Masonry.sinf</string>
+		<string>Frameworks/NewRelic.framework/SC_Info/NewRelic.sinf</string>
+		<string>Frameworks/Pendo.framework/SC_Info/Pendo.sinf</string>
+		<string>Frameworks/PromiseKit.framework/SC_Info/PromiseKit.sinf</string>
+		<string>Frameworks/RFLKeychainAccess.framework/SC_Info/RFLKeychainAccess.sinf</string>
+		<string>Frameworks/SSZipArchive.framework/SC_Info/SSZipArchive.sinf</string>
+		<string>Frameworks/SiroSDK.framework/SC_Info/SiroSDK.sinf</string>
+		<string>Frameworks/Spreedly.framework/SC_Info/Spreedly.sinf</string>
+		<string>SC_Info/Leap.sinf</string>
+	</array>
+</dict>
+</plist>
